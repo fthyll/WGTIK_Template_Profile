@@ -1307,3 +1307,11 @@ Thanks! :heart:
 Contributions are welcome! &lt;3
 
 Made with :heart: and JavaScript.
+
+
+special thanks to : 
+
+
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+<div align="center">Generated using <a href="https://github.com/anuraghazra/" target="_blank">GitHub Readme Stats</a></div>
+<div align="center">Generated using <a href="https://github.com/ryo-ma/" target="_blank">Github Profile Trophy</a></div>
